@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "touchscoolnewitems:antimony"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "touchscoolnewitems:antimony_dust"
+  }
+}

@@ -18,7 +18,7 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> ANTIMONY_ORE = registerBlock("antimony_ore",
             () -> new Block(BlockBehaviour.Properties.of()
-                    .strength(4f)
+                    .strength(1.5f)
                     .requiresCorrectToolForDrops()
                     .sound(SoundType.STONE)));
 

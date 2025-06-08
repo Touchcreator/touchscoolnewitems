@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 4000,
+  "experience": 0.75,
+  "group": "antimony",
+  "ingredient": {
+    "item": "touchscoolnewitems:raw_antimony"
+  },
+  "result": {
+    "count": 1,
+    "id": "touchscoolnewitems:antimony"
+  }
+}
