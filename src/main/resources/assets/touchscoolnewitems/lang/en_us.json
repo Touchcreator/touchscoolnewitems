@@ -1,5 +1,10 @@
 {
-  "itemGroup.touchscoolnewitems": "Example Mod Tab",
-  "block.touchscoolnewitems.example_block": "Example Block",
-  "item.touchscoolnewitems.example_item": "Example Item"
+  "item.touchscoolnewitems.antimony": "Antimony",
+  "item.touchscoolnewitems.antimony_dust": "Antimony Dust",
+  "item.touchscoolnewitems.raw_antimony": "Raw Antimony",
+
+  "block.touchscoolnewitems.antimony_ore": "Antimony Ore",
+
+  "creativetab.touchscoolnewitems.touch_items_tab": "Touch's Items",
+  "creativetab.touchscoolnewitems.touch_blocks_tab": "Touch's Blocks"
 }
